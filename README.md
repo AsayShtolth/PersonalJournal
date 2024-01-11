@@ -1,3 +1,0 @@
-# PersonalJournal
-
-JavaScript, TypeScript, React
